@@ -1,1 +1,75 @@
-panier
+{
+  "panier1" :  [ 
+    {
+      "perf":"56",
+      "percent":"76",
+      "fond1" : [
+        {
+          "perf-fond":"34",
+          "percent-fond":"78"
+        }
+        ],
+      "fond2" : [
+        {
+          "perf-fond":"34",
+          "percent-fond":"78"
+        }
+        ],
+      "fond3" : [
+        {
+          "perf-fond":"34",
+          "percent-fond":"78"
+        }
+        ] 
+    }
+    ],
+  "panier2" :  [ 
+    {
+      "perf":"66",
+      "percent":"77",
+      "fond1" : [
+        {
+          "perf-fond":"44",
+          "percent-fond":"88"
+        }
+        ],
+      "fond2" : [
+        {
+          "perf-fond":"33",
+          "percent-fond":"22"
+        }
+        ],
+      "fond3" : [
+        {
+          "perf-fond":"11",
+          "percent-fond":"99"
+        }
+        ] 
+    }
+    ],
+  "panier3" :  [ 
+    {
+      "perf":"2",
+      "percent":"3",
+      "fond1" : [
+        {
+          "perf-fond":"4",
+          "percent-fond":"8"
+        }
+        ],
+      "fond2" : [
+        {
+          "perf-fond":"5",
+          "percent-fond":"7"
+        }
+        ],
+      "fond3" : [
+        {
+          "perf-fond":"1",
+          "percent-fond":"9"
+        }
+        ] 
+    }
+    ]
+}
+    
