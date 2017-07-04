@@ -1,75 +1,61 @@
-[{
-  "panier1" :  [ 
-    {
-      "perf":"56",
-      "percent":"76",
-      "fond1" : [
+[
+  { "fond" : "name-fond1"
+    "perfa" : "11",
+    "perfb" : "22",
+    "action1" : 
         {
-          "perf-fond":"34",
-          "percent-fond":"78"
+          "name" : "action-name1"
+          "perfa" : "33",
+          "perfb" : "44"
         }
-        ],
-      "fond2" : [
+    "action2" : 
         {
-          "perf-fond":"34",
-          "percent-fond":"78"
+          "name" : "action-name2"
+          "perfa" : "55",
+          "perfb" : "66"
         }
-        ],
-      "fond3" : [
+    "action3" : 
         {
-          "perf-fond":"34",
-          "percent-fond":"78"
+          "name" : "action-name3"
+          "perfa" : "77",
+          "perfb" : "88"
         }
-        ] 
-    }
-    ],
-  "panier2" :  [ 
-    {
-      "perf":"66",
-      "percent":"77",
-      "fond1" : [
+    "action4" : 
         {
-          "perf-fond":"44",
-          "percent-fond":"88"
+          "name" : "action-name4"
+          "perfa" : "99",
+          "perfb" : "88"
         }
-        ],
-      "fond2" : [
+  
+},
+  { "fond" : "name-fond2",
+    "perfa" : "99",
+    "perfb" : "99",
+    "action1" : 
         {
-          "perf-fond":"33",
-          "percent-fond":"22"
+          "name" : "action-name1",
+          "perfa" : "33",
+          "perfb" : "44"
         }
-        ],
-      "fond3" : [
+    "action2" : 
         {
-          "perf-fond":"11",
-          "percent-fond":"99"
+          "name" : "action-name2",
+          "perfa" : "55",
+          "perfb" : "66"
         }
-        ] 
-    }
-    ],
-  "panier3" :  [ 
-    {
-      "perf":"2",
-      "percent":"3",
-      "fond1" : [
+    "action3" : 
         {
-          "perf-fond":"4",
-          "percent-fond":"8"
+          "name" : "action-name3",
+          "perfa" : "77",
+          "perfb" : "88"
         }
-        ],
-      "fond2" : [
+    "action4" : 
         {
-          "perf-fond":"5",
-          "percent-fond":"7"
+          "name" : "action-name4",
+          "perfa" : "99",
+          "perfb" : "88"
         }
-        ],
-      "fond3" : [
-        {
-          "perf-fond":"1",
-          "percent-fond":"9"
-        }
-        ] 
-    }
-    ]
-}]
+  
+}
+]
     
