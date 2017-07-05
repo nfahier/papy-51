@@ -3,17 +3,17 @@
     "perfa" : "11",
     "perfb" : "22",
     "actions" : [ 
-                  {"action" : "cafouine", "perfa" : "11", "perfb" : "22" },
+                  {"action" : "cafouine", "perfa" : "-11", "perfb" : "22" },
                   {"action" : "cafouinepas", "perfa" : "11", "perfb" : "22" },
-                  {"action" : "cestmort", "perfa" : "11", "perfb" : "22" }  
+                  {"action" : "cestmort", "perfa" : "-11", "perfb" : "22" }  
                 ]  
   },
   { "fond" : "name-fond2",
     "perfa" : "99",
     "perfb" : "88",
     "actions" : [ 
-                  {"action" : "toto", "perfa" : "11", "perfb" : "22" },
-                  {"action" : "porc", "perfa" : "11", "perfb" : "22" },
+                  {"action" : "toto", "perfa" : "11", "perfb" : "-22" },
+                  {"action" : "porc", "perfa" : "11", "perfb" : "-22" },
                   {"action" : "massif", "perfa" : "11", "perfb" : "22" }  
                 ]       
   },
@@ -22,7 +22,7 @@
     "perfb" : "88",
     "actions" : [ 
                   {"action" : "came", "perfa" : "11", "perfb" : "22" },
-                  {"action" : "gratte", "perfa" : "11", "perfb" : "22" },
+                  {"action" : "gratte", "perfa" : "-11", "perfb" : "-22" },
                   {"action" : "lesfesses", "perfa" : "11", "perfb" : "22" }  
                 ]
       
