@@ -4,21 +4,21 @@
     "perfb" : "22",
     "actions" :
       
-        {
+        [
          "action" : "cafouine",
          "perfa" : "11",
          "perfb" : "22"
-        },
-        {
+        ],
+        [
          "action" : "cafouinepas",
          "perfa" : "33",
          "perfb" : "44"
-        },
-        {
+        ],
+        [
          "action" : "cestmort",
          "perfa" : "55",
          "perfb" : "66"
-        }
+        ]
       
   },
   { "fond" : "name-fond2",
@@ -26,21 +26,21 @@
     "perfb" : "88",
     "actions" :
       
-        {
+        [
          "action" : "cafouineplus",
          "perfa" : "77",
          "perfb" : "66"
-        },
-        {
+        ],
+        [
          "action" : "cafouine",
          "perfa" : "55",
          "perfb" : "44"
-        },
-        {
+        ],
+        [
          "action" : "tesmax",
          "perfa" : "33",
          "perfb" : "22"
-        }
+        ]
       
   },
   { "fond" : "name-fond3",
@@ -48,21 +48,21 @@
     "perfb" : "88",
     "actions" :
       
-        {
+        [
          "action" : "cafouineplus",
          "perfa" : "77",
          "perfb" : "66"
-        },
-        {
+        ],
+        [
          "action" : "cafouine",
          "perfa" : "55",
          "perfb" : "44"
-        },
-        {
+        ],
+        [
          "action" : "tesmax",
          "perfa" : "33",
          "perfb" : "22"
-        }
+        ]
       
   }
 ]
