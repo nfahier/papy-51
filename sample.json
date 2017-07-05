@@ -3,7 +3,7 @@
     "perfa" : "11",
     "perfb" : "22",
     "actions" : [ 
-                  {"action" : "cafouine", "perfa" : "-11", "perfb" : "22" },
+                  {"action" : "-cafouine", "perfa" : "-11", "perfb" : "22" },
                   {"action" : "cafouinepas", "perfa" : "11", "perfb" : "22" },
                   {"action" : "cestmort", "perfa" : "-11", "perfb" : "22" }  
                 ]  
